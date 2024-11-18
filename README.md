@@ -110,7 +110,8 @@ All sensitive information should be stored in the `.env` file to avoid hardcodin
 
 1. **GitHub Repository**: A well-structured repository containing all the project files and this `README.md`.
 2. **Loom Video**: A 2-minute walkthrough video demonstrating the key features and functionalities of the project.
-3. **Dashboard**: A Streamlit dashboard providing the described functionalities.
+3. https://www.loom.com/share/e1543798ed5c4a589fda2620ae625c31?sid=c473f941-3830-49a9-9188-96b23b6da021
+4. **Dashboard**: A Streamlit dashboard providing the described functionalities.
 
 For any further assistance, feel free to reach out.
 
