@@ -1,0 +1,53 @@
+# Ignore environment variables
+.env
+myenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pdb
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Ignore uploads or temporary data files
+static/uploads/
+predictions*.csv
+
+# Ignore virtual environments
+venv/
+env/
+*.egg-info/
+
+# Ignore compiled files
+*.out
+*.o
+*.a
+*.class
+
+# Ignore requirements files if auto-generated
+requirements.txt
+
+# Ignore other secrets
+*.pem
+*.key
+
+# Ignore any other file that could contain secrets
+.groq_key
