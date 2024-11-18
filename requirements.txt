@@ -1,0 +1,12 @@
+Flask
+requests
+pandas
+gspread
+google-auth
+python-dotenv
+langchain
+serpapi
+SQLAlchemy
+psycopg2
+Werkzeug
+langchain_community
